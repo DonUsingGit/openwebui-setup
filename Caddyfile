@@ -1,0 +1,7 @@
+{
+    auto_https disable_redirects
+}
+
+macbook-pro.local {
+    reverse_proxy localhost:3000
+}

@@ -1,0 +1,11 @@
+# Ignore actual API keys
+api_keys
+*.key
+*.pem
+
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*~

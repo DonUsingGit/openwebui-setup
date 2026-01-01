@@ -1,0 +1,11 @@
+# API Keys Template
+# Copy this file to ~/.api_keys/api_keys and fill in your keys
+# DO NOT commit the filled-in version to git
+
+OPENAI_API_KEY=sk-proj-YOUR_KEY_HERE
+ANTHROPIC_API_KEY=sk-ant-YOUR_KEY_HERE
+GEMINI_API_KEY=YOUR_KEY_HERE
+GROK_API_KEY=xai-YOUR_KEY_HERE
+DEEPSEEK_API_KEY=sk-YOUR_KEY_HERE
+OPENROUTER_API_KEY=sk-or-YOUR_KEY_HERE
+BRAVE_API_KEY=YOUR_KEY_HERE
